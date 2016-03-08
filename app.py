@@ -1,5 +1,5 @@
-import tkinter as tk
-import tkinter.filedialog as tkfd
+import Tkinter as tk
+import tkFileDialog as tkfd
 from Cluster import *
 from compare import *
 
